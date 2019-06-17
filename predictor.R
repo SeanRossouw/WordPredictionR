@@ -1,3 +1,5 @@
+#SeanR 2019
+
 library(data.table)
 library(quanteda)
 library(stringr)
