@@ -32,5 +32,5 @@ The top n number of predictions are returned based on the slider input
 
 
 ## Acknowledgments
-Thanks to Jeff Leek Roger Peng and Brian Caffo from Johns Hopkins
+Thanks to Jeff Leek, Roger Peng and Brian Caffo from Johns Hopkins
 Thanks to Coursera.org and SwiftKey for facilitation of this capstone project
